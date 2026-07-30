@@ -1,0 +1,2 @@
+# DATA_ANALYTICS_CERTIFICATE
+DATA_ANALYTICS course Completion certificate from firstbit_solutions
